@@ -23,10 +23,6 @@ Todo View Model Unit testing is present which is used along with Mockwebserver t
 Unit test has also been provided in android test for the Database (DAO) classes.
 
 
-Basic flow is ->
-  View -> ViewModel (With LiveData)->Repository(Flow)
-                                        /    \
-                           RemoteDataSource  LocalDataSource
-                             Retrofit         Room
+
 
 
